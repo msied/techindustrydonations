@@ -1,0 +1,7 @@
+www:
+  type: nodejs
+  approot: datafest
+  environment:
+    MODE: production
+  config:
+    node_version: v0.8.x
